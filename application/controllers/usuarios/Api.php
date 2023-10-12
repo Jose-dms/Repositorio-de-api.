@@ -7,8 +7,10 @@
 //api-> Nombre del proyecto dentro de htdocs.
 //usuarios -> Nombre de la carpeta del controlador.
 //api-> Nombre del archivo api.php.
-//ubicaciones -> Nombre de los metodos post put delete.
+//nombre -> Nombre de los metodos post put delete.
 //usuarios-> Nombre de la tabla donde se guardaran los datos.
+
+
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
